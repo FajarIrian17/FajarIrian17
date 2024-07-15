@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FajarIrian17
+- 👋 Hi, I’m Fajar
 - 👀 I’m interested in website design
 - 🌱 I’m currently learning java & php
 - 💞️ I’m looking to collaborate on ...
